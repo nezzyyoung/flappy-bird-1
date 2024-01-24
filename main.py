@@ -1,5 +1,4 @@
 import pygame
-
 import assets
 import configs
 from objects.background import Background
@@ -9,6 +8,7 @@ from objects.floor import Floor
 from objects.gameover_message import GameOverMessage
 from objects.gamestart_message import GameStartMessage
 from objects.score import Score
+
 
 pygame.init()
 
